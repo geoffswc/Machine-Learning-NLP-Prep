@@ -31,6 +31,8 @@ This workshop will use the polarity dataset v1.1 http://www.cs.cornell.edu/peopl
 
 To run the workbooks below, download and unzip the polarity dataset, and move the "mix20_rand700_tokens_0211" folder into the directory containing the two jupyter notebooks.
 
+## Workbooks
+
 ### Working-With-Text.ipynb
 
 This workbook reviews how to parse, clean, and edit text data in preparation for common machine learning and natural language processing tasks. 
@@ -47,7 +49,7 @@ This workbook reviews how to read and process a movie review directly from the w
 
 https://pypi.org/project/beautifulsoup4/
 
-### Additional Tools for Web Data Collection
+## Additional Tools for Web Data Collection
 
 While BeautifulSoup is great for static HTML pages, many modern websites rely on JavaScript to load content or require user interactions (like clicking buttons or filling forms). The tools below are designed to handle these dynamic scenarios, allowing you to collect data from more complex websites.
 
