@@ -24,4 +24,21 @@ This workbook reviews how to parse, clean, and edit text data in preparation for
 
 This workbook reviews how to 
 * read text from a collection of files into python string variables 
-* format the results in a pandas dataframe 
+* format the results in a pandas dataframe
+
+### Movie-Review-Web
+
+This workbook reviews how to read and process a movie review directly from the web using the requests module and beautifulsoup, a popular library package used to convert messy formatting (including HTML or other markup tags) into clean text. 
+
+https://pypi.org/project/beautifulsoup4/
+
+### Additional Tools for Web Data Collection
+
+While BeautifulSoup is great for static HTML pages, many modern websites rely on JavaScript to load content or require user interactions (like clicking buttons or filling forms). The tools below are designed to handle these dynamic scenarios, allowing you to collect data from more complex websites.
+
+- **Selenium**: Ideal for collecting data from JavaScript-heavy websites. It allows for browser automation, making it perfect for interacting with dynamic content (e.g., clicking buttons, submitting forms).
+  
+- **Playwright**: A faster, more efficient alternative to Selenium with multi-browser support (Chrome, Firefox, Safari). Great for collecting data from modern web apps and dynamic content with minimal overhead.
+
+- **Scrapy**: A full-fledged web data collection framework for large-scale projects. It handles things like asynchronous requests, data pipelines, and error management, making it a powerful choice for complex, high-volume tasks.
+
