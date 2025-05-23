@@ -4,9 +4,24 @@ python review prior to machine learning and natural language processing workshop
 
 ## Overview
 
-This repository contains workbooks and links used during the "python background and preparation" workshop held at the UCSF Library on Dec 3, 2019. 
+This workshop evolved from an earlier session on document classification and topic modeling. Through several iterations, we realized that the material assumed a stronger background in text processing with Python than most participants had developed in the previous workshops. Additionally, we were attempting to cover too much, such as reading, cleaning, and preparing data for both document classification and topic modeling, in a single session.
 
-This workshop was designed to provide a review of python programming skills and techniques that will be used extensively in the machine learning and natural language processing workshops on Dec 10 and Dec 17. This workshop also provides a greater focus on file I/O and string/text manipulation in preparation for document classification in the NLP workshop.
+As a result, we decided to split the workshop into two parts, with one dedicated to text data preparation and the other to document classification. This repository contains the code and explanations for working with text data, focusing on datasets from industry archives and data scraped directly from websites.
+
+This workshop will cover common text preparation techniques in Python, including:
+
+* Collecting data from the web or unstructured files
+* Removing punctuation
+* Removing capitalization
+* Removing non-alphanumeric characters
+* Tokenization
+* Removing stop words
+* Using a pre-defined vocabulary
+* Stemming 
+* Lemmatizing
+* Creating a bag-of-words
+* Creating a word frequency vector
+
 
 ## Data
 
