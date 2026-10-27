@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as follows."
+authors:
+- family-names: "Boushey"
+  given-names: "Geoffrey"
+  affiliation: "UCSF Library"
+title: ""
+version: 1.0.0
+date-released: 2022-07-31
+url: "https://github.com/UCSF-DSOS/Machine-Learning-NLP-Prep"
+abstract: >-
+  This workshop provides an overview of python techniques for working with string and text data in preparation for later workshops
+in natural language processing and machine learning. 
+keywords:
+  - data-science
+  - python
+  - machine learning
+  - natural language processing
+license: MIT
