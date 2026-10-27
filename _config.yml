@@ -1,0 +1,9 @@
+baseurl: "/Machine-Learning-NLP-Prep"
+
+repository: UCSF-DSOS/Machine-Learning-NLP-Prep
+
+# Use the minimal theme layout (which doesn't wrap the title in a link)
+theme: jekyll-theme-minimal
+
+# Set the plain text title for the browser tab
+title: "Python Background For Text Processing"
