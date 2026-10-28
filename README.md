@@ -46,6 +46,16 @@ http://www.cs.cornell.edu/people/pabo/movie-review-data/
 
 ## Workbooks
 
+### E-Cig-Marketing.ipynb
+
+Generate a wordcloud using topics drawn from an industry documents tobacco collection prepared dataset. 
+
+### Movie-Review-Web
+
+This workbook reviews how to read and process a movie review directly from the web using the requests module and beautifulsoup, a popular library package used to convert messy formatting (including HTML or other markup tags) into clean text. 
+
+https://pypi.org/project/beautifulsoup4/
+
 ### Working-With-Text.ipynb
 
 This workbook reviews how to parse, clean, and edit text data in preparation for common machine learning and natural language processing tasks. 
@@ -56,11 +66,9 @@ This workbook reviews how to
 * read text from a collection of files into python string variables 
 * format the results in a pandas dataframe
 
-### Movie-Review-Web
+### Washington-Post-Data.ipynb
 
-This workbook reviews how to read and process a movie review directly from the web using the requests module and beautifulsoup, a popular library package used to convert messy formatting (including HTML or other markup tags) into clean text. 
-
-https://pypi.org/project/beautifulsoup4/
+Read and prepare a dataset containing opioids articles and documents from the Washington Post 
 
 ## Additional Tools for Web Data Collection
 
