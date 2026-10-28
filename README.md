@@ -52,7 +52,7 @@ http://www.cs.cornell.edu/people/pabo/movie-review-data/
 
 Generate a wordcloud using topics drawn from an industry documents tobacco collection prepared dataset. 
 
-### Movie-Review-Web
+### Movie-Review-Web.ipynb
 
 This workbook reviews how to read and process a movie review directly from the web using the requests module and beautifulsoup, a popular library package used to convert messy formatting (including HTML or other markup tags) into clean text. 
 
@@ -81,6 +81,4 @@ While BeautifulSoup is great for static HTML pages, many modern websites rely on
 - **Playwright**: A faster, more efficient alternative to Selenium with multi-browser support (Chrome, Firefox, Safari). Great for collecting data from modern web apps and dynamic content with minimal overhead.
 
 - **Scrapy**: A full-fledged web data collection framework for large-scale projects. It handles things like asynchronous requests, data pipelines, and error management, making it a powerful choice for complex, high-volume tasks.
-
-- 
 
