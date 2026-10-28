@@ -1,8 +1,10 @@
 ## Description
 
-This workshop evolved from an earlier session on document classification and topic modeling. Through several iterations, we realized that the material assumed a stronger background in text processing with Python than most participants had developed in the previous workshops. Additionally, we were attempting to cover too much, such as reading, cleaning, and preparing data for both document classification and topic modeling, in a single session.
+This repository contains materials for a hands-on workshop on preparing text data for natural language processing (NLP) and machine learning with Python. Using text from web pages, document collections, and prepared datasets, participants learn how to collect, inspect, clean, standardize, and transform text into formats suitable for computational analysis.
 
-As a result, we decided to split the workshop into two parts, with one dedicated to text data preparation and the other to document classification. This repository contains the code and explanations for working with text data, focusing on datasets from industry archives and data scraped directly from websites.
+The workshop introduces common text-processing tasks such as tokenization, punctuation and capitalization normalization, stop-word removal, stemming and lemmatization, vocabulary filtering, and the creation of bag-of-words and word-frequency representations. It also examines how text can be lost or altered during processes such as image-to-text transcription and encourages participants to consider the trade-offs between manual, programmatic, and generative AI approaches to preparing text data.
+
+These materials grew out of an earlier workshop covering document classification and topic modeling. That workshop attempted to introduce text preparation and downstream NLP methods in a single session. Because preparing text is both a substantial technical task and an important part of the research process, the material was separated into two workshops. This repository focuses on text collection and preparation, providing the foundation for subsequent work in document classification and other NLP methods.
 
 ## Objectives
 
