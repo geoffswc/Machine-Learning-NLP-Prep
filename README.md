@@ -48,7 +48,7 @@ http://www.cs.cornell.edu/people/pabo/movie-review-data/
 
 ## Workbooks
 
-### E-Cig-Marketing.ipynb
+### [E-Cig-Marketing.ipynb](https://github.com/UCSF-DSOS/Machine-Learning-NLP-Prep/blob/main/E-Cig-Marketing.ipynb)
 
 Generate a wordcloud using topics drawn from an industry documents tobacco collection prepared dataset. 
 
