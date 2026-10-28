@@ -52,23 +52,23 @@ http://www.cs.cornell.edu/people/pabo/movie-review-data/
 
 Generate a wordcloud using topics drawn from an industry documents tobacco collection prepared dataset. 
 
-### Movie-Review-Web.ipynb
+### [Movie-Review-Web.ipynb](https://github.com/UCSF-DSOS/Machine-Learning-NLP-Prep/blob/main/Movie-Review-Web.ipynb)
 
 This workbook reviews how to read and process a movie review directly from the web using the requests module and beautifulsoup, a popular library package used to convert messy formatting (including HTML or other markup tags) into clean text. 
 
 https://pypi.org/project/beautifulsoup4/
 
-### Working-With-Text.ipynb
+### [Working-With-Text.ipynb](https://github.com/UCSF-DSOS/Machine-Learning-NLP-Prep/blob/main/Working-With-Text.ipynb)
 
 This workbook reviews how to parse, clean, and edit text data in preparation for common machine learning and natural language processing tasks. 
 
-### Read-All-Files.ipynb
+### [Read-All-Files.ipynb](https://github.com/UCSF-DSOS/Machine-Learning-NLP-Prep/blob/main/Read-All-Files.ipynb)
 
 This workbook reviews how to 
 * read text from a collection of files into python string variables 
 * format the results in a pandas dataframe
 
-### Washington-Post-Data.ipynb
+### [Washington-Post-Data.ipynb](https://github.com/UCSF-DSOS/Machine-Learning-NLP-Prep/blob/main/E-Cig-Marketing.ipynb)
 
 Read and prepare a dataset containing opioids articles and documents from the Washington Post 
 
