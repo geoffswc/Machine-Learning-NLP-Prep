@@ -68,7 +68,7 @@ This workbook reviews how to
 * read text from a collection of files into python string variables 
 * format the results in a pandas dataframe
 
-### [Washington-Post-Data.ipynb](https://github.com/UCSF-DSOS/Machine-Learning-NLP-Prep/blob/main/E-Cig-Marketing.ipynb)
+### [Washington-Post-Data.ipynb](https://github.com/UCSF-DSOS/Machine-Learning-NLP-Prep/blob/main/Washington-Post-Data.ipynb)
 
 Read and prepare a dataset containing opioids articles and documents from the Washington Post 
 
